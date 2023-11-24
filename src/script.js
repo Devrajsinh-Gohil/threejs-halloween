@@ -67,12 +67,6 @@ loader.load('./model/gravestone.glb', function(gltf) {
  */
 const textureLoader = new THREE.TextureLoader()
 
-//walls textures
-const bricksColorTexture = textureLoader.load('/textures/bricks/color.jpg');
-const bricksNormalTexture = textureLoader.load('/textures/bricks/normal.jpg');
-const bricksAmbientOcclusionTexture = textureLoader.load('/textures/bricks/ambientOcclusion.jpg');
-const bricksRoughnessTexture = textureLoader.load('/textures/bricks/roughness.jpg');
-
 //grass textures
 const grassColorTexture = textureLoader.load('/textures/ground/color.jpg');
 const grassNormalTexture = textureLoader.load('/textures/ground/normal.jpg');
