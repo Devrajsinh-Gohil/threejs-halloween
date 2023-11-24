@@ -1,4 +1,4 @@
-# Three.js Journey
+# threejs-halloween
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,5 +14,3 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-# threejs-halloween
-# threejs-halloween
